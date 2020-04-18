@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+In the world of software development. I would rather be a **Jack of all trades**, and a _master of none_
